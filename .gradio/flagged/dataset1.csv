@@ -1,0 +1,540 @@
+📝 Text Input (English only),🔊 Google Text to Speech Audio Output,📝 Moonshine Transcription Output,📝 Faster-Whisper Tiny Transcription Output,📈 Statistics Output,📊 Chart,📈 Cumulative Statistics Output,📊 Cumulative Chart,timestamp
+"The quick brown fox jumps over the lazy dog.
+",.gradio\flagged\ Google Text to Speech Audio Output\3651223a0e678a8892d7\tmpb_o7pow8.wav,the quick brown fox jumps over the lazy dog,the quick brown fox jumps over the lazy dog,"Percentage Difference Latency: 8.98x
+Absolute Difference Latency: 9.60 seconds
+
+Moonshine Latency: 10.67 seconds
+Faster-Whisper Tiny Latency: 1.07 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\14fa75a4859d91d27c96\latency_and_wer_comparison.png,"Total Runs: 1
+
+Average Percentage Difference Latency: 8.98x
+Average Absolute Difference Latency: 9.60 seconds
+
+Average Moonshine Latency: 10.67 seconds
+Average Faster-Whisper Tiny Latency: 1.07 seconds
+
+Average Moonshine WER: 0.00%
+Average Faster-Whisper Tiny WER: 0.00%",.gradio\flagged\ Cumulative Chart\07dd554179e4322207ae\cumulative_latency_and_wer_comparison.png,2024-10-26 17:47:23.188097
+"As the sun set, the sky transformed into a breathtaking canvas of colors that captivated everyone watching.
+",.gradio\flagged\ Google Text to Speech Audio Output\78b5d8bcf519dea85966\tmpub2x1sgk.wav,as this unset the sky transformed into a breathtaking canvas of colors that captivated everyone watching,as the sunset the sky transformed into a breathtaking canvas of colours that captivated everyone watching,"Percentage Difference Latency: 9.94x
+Absolute Difference Latency: 9.97 seconds
+
+Moonshine Latency: 10.98 seconds
+Faster-Whisper Tiny Latency: 1.00 seconds
+
+WER Moonshine: 17.65%
+WER Faster-Whisper Tiny: 17.65%",.gradio\flagged\ Chart\0e3f1eab1a89fbbc73e9\latency_and_wer_comparison.png,"Total Runs: 2
+
+Average Percentage Difference Latency: 9.46x
+Average Absolute Difference Latency: 9.79 seconds
+
+Average Moonshine Latency: 10.82 seconds
+Average Faster-Whisper Tiny Latency: 1.04 seconds
+
+Average Moonshine WER: 8.82%
+Average Faster-Whisper Tiny WER: 8.82%",.gradio\flagged\ Cumulative Chart\73df289282f5d5e27d53\cumulative_latency_and_wer_comparison.png,2024-10-26 17:48:23.545784
+"Exploring the depths of the ocean reveals a world of mystery and wonder, filled with creatures both strange and beautiful.
+",.gradio\flagged\ Google Text to Speech Audio Output\ed5476f979d47c046075\tmp_j058plb.wav,exploring the depths of the ocean reveals a world of mystery and wonder filled with creatures both strange and beautiful,exploring the depths of the ocean reveals a world of mystery and wonder filled with creatures both strange and beautiful,"Percentage Difference Latency: 9.64x
+Absolute Difference Latency: 11.03 seconds
+
+Moonshine Latency: 12.17 seconds
+Faster-Whisper Tiny Latency: 1.14 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\f953e577b066cb0eef2d\latency_and_wer_comparison.png,"Total Runs: 3
+
+Average Percentage Difference Latency: 9.52x
+Average Absolute Difference Latency: 10.20 seconds
+
+Average Moonshine Latency: 11.27 seconds
+Average Faster-Whisper Tiny Latency: 1.07 seconds
+
+Average Moonshine WER: 5.88%
+Average Faster-Whisper Tiny WER: 5.88%",.gradio\flagged\ Cumulative Chart\04aac395d862d225deee\cumulative_latency_and_wer_comparison.png,2024-10-26 17:49:04.814963
+"Time flies when you're having fun, but it also teaches us valuable lessons about patience and resilience.
+",.gradio\flagged\ Google Text to Speech Audio Output\69fff3c48e63e3853129\tmp3dc5yen9.wav,time flies when you are having fun but it also teaches us valuable lessons about patience and resilience,time flies when you are having fun but it also teaches us valuable lessons about patients and resilience,"Percentage Difference Latency: 9.19x
+Absolute Difference Latency: 11.21 seconds
+
+Moonshine Latency: 12.43 seconds
+Faster-Whisper Tiny Latency: 1.22 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 5.56%",.gradio\flagged\ Chart\147c4c1d07f4c0579b1e\latency_and_wer_comparison.png,"Total Runs: 4
+
+Average Percentage Difference Latency: 9.44x
+Average Absolute Difference Latency: 10.45 seconds
+
+Average Moonshine Latency: 11.56 seconds
+Average Faster-Whisper Tiny Latency: 1.11 seconds
+
+Average Moonshine WER: 4.41%
+Average Faster-Whisper Tiny WER: 5.80%",.gradio\flagged\ Cumulative Chart\7556321f75f0afb1aee4\cumulative_latency_and_wer_comparison.png,2024-10-26 17:49:44.424039
+"A day without laughter is a day wasted, according to Charlie Chaplin, who understood the power of joy.
+",.gradio\flagged\ Google Text to Speech Audio Output\11cd96740af6d41dbfc6\tmp8t1mlfyc.wav,a day without laughter is a day wasted according to charlie chaplin who understood the power of joy,a day without laughter is a day wasted according to charlie chaplin who understood the power of joy,"Percentage Difference Latency: 9.09x
+Absolute Difference Latency: 9.45 seconds
+
+Moonshine Latency: 10.49 seconds
+Faster-Whisper Tiny Latency: 1.04 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\e871571fcc2f197f4f9e\latency_and_wer_comparison.png,"Total Runs: 5
+
+Average Percentage Difference Latency: 9.37x
+Average Absolute Difference Latency: 10.25 seconds
+
+Average Moonshine Latency: 11.35 seconds
+Average Faster-Whisper Tiny Latency: 1.09 seconds
+
+Average Moonshine WER: 3.53%
+Average Faster-Whisper Tiny WER: 4.64%",.gradio\flagged\ Cumulative Chart\9c658bebc4eeb1e0e0c1\cumulative_latency_and_wer_comparison.png,2024-10-26 17:50:14.921882
+"The ancient ruins whispered secrets of civilizations long gone, echoing stories of their triumphs and tragedies.
+",.gradio\flagged\ Google Text to Speech Audio Output\1a1199bbc1a795a14458\tmp_f7as8sm.wav,the ancient ruins whispered secrets of civilizations long gone echoing stories of their triumphs and tragedies,the ancient ruins whispered secrets of civilizations long gone echoing stories of their triumphs and tragedies,"Percentage Difference Latency: 10.72x
+Absolute Difference Latency: 10.33 seconds
+
+Moonshine Latency: 11.29 seconds
+Faster-Whisper Tiny Latency: 0.96 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\93e9928ccd4c476cec78\latency_and_wer_comparison.png,"Total Runs: 6
+
+Average Percentage Difference Latency: 9.60x
+Average Absolute Difference Latency: 10.26 seconds
+
+Average Moonshine Latency: 11.34 seconds
+Average Faster-Whisper Tiny Latency: 1.07 seconds
+
+Average Moonshine WER: 2.94%
+Average Faster-Whisper Tiny WER: 3.87%",.gradio\flagged\ Cumulative Chart\ee4456e644530f6c210d\cumulative_latency_and_wer_comparison.png,2024-10-26 17:50:46.477701
+"In the heart of the city, a hidden garden blooms, offering tranquility to those seeking refuge from the chaos.
+",.gradio\flagged\ Google Text to Speech Audio Output\ecf27c3286e870704c92\tmp33reh5aw.wav,in the heart of the city a hidden garden blooms offering tranquillity to those seeking refuge from the chaos,in the heart of the city a hidden garden blooms offering tranquility to those seeking refuge from the chaos,"Percentage Difference Latency: 11.12x
+Absolute Difference Latency: 11.44 seconds
+
+Moonshine Latency: 12.47 seconds
+Faster-Whisper Tiny Latency: 1.03 seconds
+
+WER Moonshine: 5.26%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\29300ecd40a7f24a40e8\latency_and_wer_comparison.png,"Total Runs: 7
+
+Average Percentage Difference Latency: 9.81x
+Average Absolute Difference Latency: 10.43 seconds
+
+Average Moonshine Latency: 11.50 seconds
+Average Faster-Whisper Tiny Latency: 1.07 seconds
+
+Average Moonshine WER: 3.27%
+Average Faster-Whisper Tiny WER: 3.31%",.gradio\flagged\ Cumulative Chart\e861ca9402245e108a60\cumulative_latency_and_wer_comparison.png,2024-10-26 17:51:19.287289
+"Technology evolves rapidly, shaping the way we live, work, and connect, often in ways we never imagined.
+",.gradio\flagged\ Google Text to Speech Audio Output\747703e9e7d6bee7f50b\tmphln82tfa.wav,technology evolves rapidly shaping the way we live work and connect often in ways we never imagined,technology evolves rapidly shaping the way we live work and connect often in ways we never imagined,"Percentage Difference Latency: 8.63x
+Absolute Difference Latency: 10.39 seconds
+
+Moonshine Latency: 11.59 seconds
+Faster-Whisper Tiny Latency: 1.20 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\bcfa8dec02b595a103c2\latency_and_wer_comparison.png,"Total Runs: 8
+
+Average Percentage Difference Latency: 9.67x
+Average Absolute Difference Latency: 10.43 seconds
+
+Average Moonshine Latency: 11.51 seconds
+Average Faster-Whisper Tiny Latency: 1.08 seconds
+
+Average Moonshine WER: 2.86%
+Average Faster-Whisper Tiny WER: 2.90%",.gradio\flagged\ Cumulative Chart\513858d2724c7c627834\cumulative_latency_and_wer_comparison.png,2024-10-26 17:52:08.569953
+"Friendship is like a flower; it needs nurturing to grow, and with care, it can blossom beautifully.
+",.gradio\flagged\ Google Text to Speech Audio Output\de6dc14a900fcf48bbed\tmp858af0vv.wav,friendship is like a flower it needs nurturing to grow and with care it can blossom beautifully,friendship is like a flower it needs nurturing to grow and with care it can blossom beautifully,"Percentage Difference Latency: 10.68x
+Absolute Difference Latency: 11.26 seconds
+
+Moonshine Latency: 12.31 seconds
+Faster-Whisper Tiny Latency: 1.05 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\4e249f910ade92960273\latency_and_wer_comparison.png,"Total Runs: 9
+
+Average Percentage Difference Latency: 9.78x
+Average Absolute Difference Latency: 10.52 seconds
+
+Average Moonshine Latency: 11.60 seconds
+Average Faster-Whisper Tiny Latency: 1.08 seconds
+
+Average Moonshine WER: 2.55%
+Average Faster-Whisper Tiny WER: 2.58%",.gradio\flagged\ Cumulative Chart\428fce0f76dbc2c3ea00\cumulative_latency_and_wer_comparison.png,2024-10-26 17:52:44.850115
+"She always believed that dreams could come true with hard work and perseverance, and she never gave up on them.
+",.gradio\flagged\ Google Text to Speech Audio Output\c612bda78f08f64d49ee\tmp331fg_gg.wav,she always believed that dreams could come true with hard work and perseverance and she never gave up on them,she always believed that dreams could come true with hard work and perseverance and she never gave up on them,"Percentage Difference Latency: 9.11x
+Absolute Difference Latency: 10.00 seconds
+
+Moonshine Latency: 11.10 seconds
+Faster-Whisper Tiny Latency: 1.10 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\0069fb0ab98bcace54b4\latency_and_wer_comparison.png,"Total Runs: 10
+
+Average Percentage Difference Latency: 9.71x
+Average Absolute Difference Latency: 10.47 seconds
+
+Average Moonshine Latency: 11.55 seconds
+Average Faster-Whisper Tiny Latency: 1.08 seconds
+
+Average Moonshine WER: 2.29%
+Average Faster-Whisper Tiny WER: 2.32%",.gradio\flagged\ Cumulative Chart\ebe3605b554309a5bc9e\cumulative_latency_and_wer_comparison.png,2024-10-26 17:53:20.949823
+"The sound of rain on the roof created a soothing symphony that lulled me into a peaceful slumber.
+",.gradio\flagged\ Google Text to Speech Audio Output\d443e92a7f2c75598ed8\tmp5nt0gmns.wav,the sound of rain on the roof created a soothing symphony that lulled me into a peaceful slumber,the sound of rain on the roof created a soothing symphony that lulled me into a peaceful slumber,"Percentage Difference Latency: 11.90x
+Absolute Difference Latency: 11.44 seconds
+
+Moonshine Latency: 12.41 seconds
+Faster-Whisper Tiny Latency: 0.96 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\f0927b11fd582e892b7f\latency_and_wer_comparison.png,"Total Runs: 11
+
+Average Percentage Difference Latency: 9.91x
+Average Absolute Difference Latency: 10.56 seconds
+
+Average Moonshine Latency: 11.63 seconds
+Average Faster-Whisper Tiny Latency: 1.07 seconds
+
+Average Moonshine WER: 2.08%
+Average Faster-Whisper Tiny WER: 2.11%",.gradio\flagged\ Cumulative Chart\994a4f344be025d016cf\cumulative_latency_and_wer_comparison.png,2024-10-26 17:53:54.272337
+"On a cold winter night, a warm cup of cocoa is the ultimate comfort, wrapping you in a cozy embrace.
+",.gradio\flagged\ Google Text to Speech Audio Output\9a397c8fd5a096be9f23\tmpbbg0jqrh.wav,on a cold winter night a warm cup of cocoa is the ultimate comfort wrapping you in a cozy embrace,on a cold winter night a warm cup of cocoa is the ultimate comfort wrapping you in a cozy embrace,"Percentage Difference Latency: 8.17x
+Absolute Difference Latency: 10.80 seconds
+
+Moonshine Latency: 12.13 seconds
+Faster-Whisper Tiny Latency: 1.32 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\07229af3d23f74ac4431\latency_and_wer_comparison.png,"Total Runs: 12
+
+Average Percentage Difference Latency: 9.77x
+Average Absolute Difference Latency: 10.58 seconds
+
+Average Moonshine Latency: 11.67 seconds
+Average Faster-Whisper Tiny Latency: 1.09 seconds
+
+Average Moonshine WER: 1.91%
+Average Faster-Whisper Tiny WER: 1.93%",.gradio\flagged\ Cumulative Chart\d6145130a3cc419248ac\cumulative_latency_and_wer_comparison.png,2024-10-26 17:54:27.666170
+"Every great achievement starts with the decision to try, taking that first step into the unknown.
+",.gradio\flagged\ Google Text to Speech Audio Output\3bb9f75f793505993d7a\tmppufxlhl8.wav,every great achievement starts with the decision to try taking that first step into the unknown,every greater achievement starts with the decision to try taking that first step into the unknown,"Percentage Difference Latency: 9.67x
+Absolute Difference Latency: 9.74 seconds
+
+Moonshine Latency: 10.75 seconds
+Faster-Whisper Tiny Latency: 1.01 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 6.25%",.gradio\flagged\ Chart\6afa0528513f40577fbb\latency_and_wer_comparison.png,"Total Runs: 13
+
+Average Percentage Difference Latency: 9.76x
+Average Absolute Difference Latency: 10.51 seconds
+
+Average Moonshine Latency: 11.60 seconds
+Average Faster-Whisper Tiny Latency: 1.09 seconds
+
+Average Moonshine WER: 1.76%
+Average Faster-Whisper Tiny WER: 2.27%",.gradio\flagged\ Cumulative Chart\3e4e92c10b0ae4cd8d5f\cumulative_latency_and_wer_comparison.png,2024-10-26 17:55:02.031561
+"Traveling allows us to experience different cultures and perspectives, broadening our understanding of the world.
+",.gradio\flagged\ Google Text to Speech Audio Output\98d78358f679b65545bc\tmp7amfrsi2.wav,travelling allows us to experience different cultures and perspectives broadening our understanding of the world,traveling allows us to experience different cultures and perspectives broadening our understanding of the world,"Percentage Difference Latency: 9.76x
+Absolute Difference Latency: 9.97 seconds
+
+Moonshine Latency: 10.99 seconds
+Faster-Whisper Tiny Latency: 1.02 seconds
+
+WER Moonshine: 6.67%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\f6a58f4147f4695c5339\latency_and_wer_comparison.png,"Total Runs: 14
+
+Average Percentage Difference Latency: 9.76x
+Average Absolute Difference Latency: 10.47 seconds
+
+Average Moonshine Latency: 11.55 seconds
+Average Faster-Whisper Tiny Latency: 1.08 seconds
+
+Average Moonshine WER: 2.11%
+Average Faster-Whisper Tiny WER: 2.10%",.gradio\flagged\ Cumulative Chart\bf69f4ed23f0ecefb0a7\cumulative_latency_and_wer_comparison.png,2024-10-26 17:55:34.854405
+"The mountain peak stood tall, challenging climbers with its icy slopes and breathtaking views at the top.
+",.gradio\flagged\ Google Text to Speech Audio Output\a98b2a96269f3b85ef89\tmp1mqc3s_2.wav,the mountain peak stood tall challenging climbers with its icy slopes and breathtaking views at the top,the mountain peaks stood tall challenging climbers with its icy slopes and breathtaking views at the top,"Percentage Difference Latency: 8.73x
+Absolute Difference Latency: 11.40 seconds
+
+Moonshine Latency: 12.70 seconds
+Faster-Whisper Tiny Latency: 1.31 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 5.88%",.gradio\flagged\ Chart\d3b7eac1832592793357\latency_and_wer_comparison.png,"Total Runs: 15
+
+Average Percentage Difference Latency: 9.69x
+Average Absolute Difference Latency: 10.53 seconds
+
+Average Moonshine Latency: 11.63 seconds
+Average Faster-Whisper Tiny Latency: 1.10 seconds
+
+Average Moonshine WER: 1.97%
+Average Faster-Whisper Tiny WER: 2.36%",.gradio\flagged\ Cumulative Chart\60156f054523a2d71b0f\cumulative_latency_and_wer_comparison.png,2024-10-26 17:56:13.036846
+"Music has the power to heal, inspire, and bring people together, creating connections that transcend words.
+",.gradio\flagged\ Google Text to Speech Audio Output\9c4f8f66bb018e59ca60\tmp1wb2gtk2.wav,music has the power to heal inspire and bring people together creating connections that transcend words,music has the power to heal inspire and bring people together creating connections that transcend words,"Percentage Difference Latency: 10.20x
+Absolute Difference Latency: 11.33 seconds
+
+Moonshine Latency: 12.45 seconds
+Faster-Whisper Tiny Latency: 1.11 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\bd23ee4a9a4f8ff90b96\latency_and_wer_comparison.png,"Total Runs: 16
+
+Average Percentage Difference Latency: 9.72x
+Average Absolute Difference Latency: 10.58 seconds
+
+Average Moonshine Latency: 11.68 seconds
+Average Faster-Whisper Tiny Latency: 1.10 seconds
+
+Average Moonshine WER: 1.85%
+Average Faster-Whisper Tiny WER: 2.21%",.gradio\flagged\ Cumulative Chart\13981fa7a026e0290e7e\cumulative_latency_and_wer_comparison.png,2024-10-26 17:56:48.268602
+"Every sunset brings the promise of a new dawn, a reminder that each day is a fresh start.
+",.gradio\flagged\ Google Text to Speech Audio Output\c2b7afc69e96a5faa834\tmpbxvz0k7c.wav,every sunset brings the promise of a new dawn a reminder that each day is a fresh start,every sunset brings the promise of a new dawn a reminder that each day is a fresh start,"Percentage Difference Latency: 9.86x
+Absolute Difference Latency: 9.45 seconds
+
+Moonshine Latency: 10.41 seconds
+Faster-Whisper Tiny Latency: 0.96 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\8e9fc35d2831493eab69\latency_and_wer_comparison.png,"Total Runs: 17
+
+Average Percentage Difference Latency: 9.73x
+Average Absolute Difference Latency: 10.52 seconds
+
+Average Moonshine Latency: 11.61 seconds
+Average Faster-Whisper Tiny Latency: 1.09 seconds
+
+Average Moonshine WER: 1.74%
+Average Faster-Whisper Tiny WER: 2.08%",.gradio\flagged\ Cumulative Chart\b74cd92976833e9b66de\cumulative_latency_and_wer_comparison.png,2024-10-26 17:57:31.992721
+"In a world filled with chaos, kindness can be a beacon of hope, guiding us through the darkest times.
+",.gradio\flagged\ Google Text to Speech Audio Output\c3f33df2368aee2c1333\tmpxllnoeuw.wav,in a world filled with chaos kindness can be a beacon of hope guiding us through the darkest times,in a world filled with chaos kindness can be a beacon of hope guiding us through the darkest times,"Percentage Difference Latency: 11.47x
+Absolute Difference Latency: 11.36 seconds
+
+Moonshine Latency: 12.35 seconds
+Faster-Whisper Tiny Latency: 0.99 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\786e4910c2ca175aef64\latency_and_wer_comparison.png,"Total Runs: 18
+
+Average Percentage Difference Latency: 9.83x
+Average Absolute Difference Latency: 10.57 seconds
+
+Average Moonshine Latency: 11.65 seconds
+Average Faster-Whisper Tiny Latency: 1.08 seconds
+
+Average Moonshine WER: 1.64%
+Average Faster-Whisper Tiny WER: 1.96%",.gradio\flagged\ Cumulative Chart\c7690285bba479d49348\cumulative_latency_and_wer_comparison.png,2024-10-26 17:58:21.421222
+"The library was a sanctuary for the curious mind seeking knowledge, filled with endless stories and wisdom.
+",.gradio\flagged\ Google Text to Speech Audio Output\5d0cd0dfcece03bdc277\tmpe_5csliu.wav,the library was a sanctuary for the curious mindseeking knowledge filled with endless stories and wisdom,the library was a sanctuary for the curious mindseeking knowledge filled with endless stories and wisdom,"Percentage Difference Latency: 9.32x
+Absolute Difference Latency: 9.39 seconds
+
+Moonshine Latency: 10.40 seconds
+Faster-Whisper Tiny Latency: 1.01 seconds
+
+WER Moonshine: 11.76%
+WER Faster-Whisper Tiny: 11.76%",.gradio\flagged\ Chart\8297b66bc96531c43855\latency_and_wer_comparison.png,"Total Runs: 19
+
+Average Percentage Difference Latency: 9.80x
+Average Absolute Difference Latency: 10.50 seconds
+
+Average Moonshine Latency: 11.58 seconds
+Average Faster-Whisper Tiny Latency: 1.08 seconds
+
+Average Moonshine WER: 2.18%
+Average Faster-Whisper Tiny WER: 2.48%",.gradio\flagged\ Cumulative Chart\f73c8b23baa0b5cec29b\cumulative_latency_and_wer_comparison.png,2024-10-26 17:58:58.589682
+"Laughter is contagious; it spreads joy like wildfire, igniting happiness in the hearts of those around.
+",.gradio\flagged\ Google Text to Speech Audio Output\c66491ddf0d2ae204f36\tmpjs71pxwy.wav,laughter is contagious it spreads joy like wildfire igniting happiness in the hearts of those around,laughter is contagious it spreads joy like wildfire igniting happiness in the hearts of those around,"Percentage Difference Latency: 9.46x
+Absolute Difference Latency: 10.71 seconds
+
+Moonshine Latency: 11.84 seconds
+Faster-Whisper Tiny Latency: 1.13 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\0b6ad95331855159461f\latency_and_wer_comparison.png,"Total Runs: 20
+
+Average Percentage Difference Latency: 9.78x
+Average Absolute Difference Latency: 10.51 seconds
+
+Average Moonshine Latency: 11.60 seconds
+Average Faster-Whisper Tiny Latency: 1.08 seconds
+
+Average Moonshine WER: 2.07%
+Average Faster-Whisper Tiny WER: 2.35%",.gradio\flagged\ Cumulative Chart\bd298523f6d105cb2e6d\cumulative_latency_and_wer_comparison.png,2024-10-26 17:59:38.266222
+"An unexpected adventure can change your life forever, leading you to discover new passions and paths.
+",.gradio\flagged\ Google Text to Speech Audio Output\077de2d46905c312ae07\tmp135_c_lr.wav,an unexpected adventure can change your life forever leading you to discover new passions and paths,an unexpected adventure can change your life forever leaving you to discover new passions and paths,"Percentage Difference Latency: 9.24x
+Absolute Difference Latency: 9.08 seconds
+
+Moonshine Latency: 10.06 seconds
+Faster-Whisper Tiny Latency: 0.98 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 6.25%",.gradio\flagged\ Chart\6c282d3e5acf283f35f0\latency_and_wer_comparison.png,"Total Runs: 21
+
+Average Percentage Difference Latency: 9.76x
+Average Absolute Difference Latency: 10.45 seconds
+
+Average Moonshine Latency: 11.52 seconds
+Average Faster-Whisper Tiny Latency: 1.08 seconds
+
+Average Moonshine WER: 1.97%
+Average Faster-Whisper Tiny WER: 2.54%",.gradio\flagged\ Cumulative Chart\39d06cb700240e691645\cumulative_latency_and_wer_comparison.png,2024-10-26 18:00:14.415656
+"The aroma of freshly baked bread wafted through the air, inviting all to gather around the table.
+",.gradio\flagged\ Google Text to Speech Audio Output\ce482b8c5b653059a0ca\tmpd54b2qvb.wav,the aroma of freshly baked bread wafted through the air inviting all to gather around the table,the aroma of freshly baked bread wafed it through the air inviting all together around the table,"Percentage Difference Latency: 8.29x
+Absolute Difference Latency: 10.26 seconds
+
+Moonshine Latency: 11.50 seconds
+Faster-Whisper Tiny Latency: 1.24 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 23.53%",.gradio\flagged\ Chart\92c0c1848dc4d9557714\latency_and_wer_comparison.png,"Total Runs: 22
+
+Average Percentage Difference Latency: 9.69x
+Average Absolute Difference Latency: 10.44 seconds
+
+Average Moonshine Latency: 11.52 seconds
+Average Faster-Whisper Tiny Latency: 1.08 seconds
+
+Average Moonshine WER: 1.88%
+Average Faster-Whisper Tiny WER: 3.49%",.gradio\flagged\ Cumulative Chart\f99635e15795515b8ab5\cumulative_latency_and_wer_comparison.png,2024-10-26 18:00:49.768838
+"Nature has a way of reminding us of the beauty in simplicity, encouraging us to slow down and appreciate.
+",.gradio\flagged\ Google Text to Speech Audio Output\d6f5a37acf176c3451cf\tmp5tyb9cqc.wav,nature has a way of reminding us of the beauty and simplicity encouraging us to slow down and appreciate,nature has a way of reminding us of the beauty and simplicity encouraging us to slow down and appreciate,"Percentage Difference Latency: 7.53x
+Absolute Difference Latency: 9.58 seconds
+
+Moonshine Latency: 10.85 seconds
+Faster-Whisper Tiny Latency: 1.27 seconds
+
+WER Moonshine: 5.26%
+WER Faster-Whisper Tiny: 5.26%",.gradio\flagged\ Chart\2b88815e8b85d4f235b2\latency_and_wer_comparison.png,"Total Runs: 23
+
+Average Percentage Difference Latency: 9.60x
+Average Absolute Difference Latency: 10.40 seconds
+
+Average Moonshine Latency: 11.49 seconds
+Average Faster-Whisper Tiny Latency: 1.09 seconds
+
+Average Moonshine WER: 2.03%
+Average Faster-Whisper Tiny WER: 3.57%",.gradio\flagged\ Cumulative Chart\07cb24f0cec0f0c4cf3b\cumulative_latency_and_wer_comparison.png,2024-10-26 18:01:26.918800
+"A good book can transport you to another world entirely, allowing you to escape reality for a while.
+",.gradio\flagged\ Google Text to Speech Audio Output\2217ee0cf41437c00162\tmpcqduby8d.wav,a good book can trance brought you to another world entirely allowing you to escape reality for a while,a good book can translate you to another world entirely allowing you to escape reality for a while,"Percentage Difference Latency: 8.87x
+Absolute Difference Latency: 9.76 seconds
+
+Moonshine Latency: 10.86 seconds
+Faster-Whisper Tiny Latency: 1.10 seconds
+
+WER Moonshine: 11.11%
+WER Faster-Whisper Tiny: 5.56%",.gradio\flagged\ Chart\c145d393464d0fadebcf\latency_and_wer_comparison.png,"Total Runs: 24
+
+Average Percentage Difference Latency: 9.57x
+Average Absolute Difference Latency: 10.37 seconds
+
+Average Moonshine Latency: 11.47 seconds
+Average Faster-Whisper Tiny Latency: 1.09 seconds
+
+Average Moonshine WER: 2.40%
+Average Faster-Whisper Tiny WER: 3.65%",.gradio\flagged\ Cumulative Chart\e92f3d81e33ee41ad2a9\cumulative_latency_and_wer_comparison.png,2024-10-26 18:02:01.338027
+"The stars twinkled above, each one telling a story of its own, a vast tapestry of dreams and possibilities.
+",.gradio\flagged\ Google Text to Speech Audio Output\34e353ea5f22be1bb561\tmpdi7rt3eh.wav,the stars twinkled above each one telling a story of its own a vast tapestry of dreams and possibilities,the stars twinkled above each one telling a story of its own a vast tapestry of dreams and possibilities,"Percentage Difference Latency: 9.46x
+Absolute Difference Latency: 9.53 seconds
+
+Moonshine Latency: 10.54 seconds
+Faster-Whisper Tiny Latency: 1.01 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\06e1189ab3f01675cef7\latency_and_wer_comparison.png,"Total Runs: 25
+
+Average Percentage Difference Latency: 9.56x
+Average Absolute Difference Latency: 10.34 seconds
+
+Average Moonshine Latency: 11.43 seconds
+Average Faster-Whisper Tiny Latency: 1.09 seconds
+
+Average Moonshine WER: 2.31%
+Average Faster-Whisper Tiny WER: 3.51%",.gradio\flagged\ Cumulative Chart\5fd3645a2eda18d6f21e\cumulative_latency_and_wer_comparison.png,2024-10-26 18:03:48.246111
+"A single act of kindness can ripple through the lives of many, creating waves of positivity and compassion.
+",.gradio\flagged\ Google Text to Speech Audio Output\963c818ae3b925949228\tmpt78ta6wq.wav,a single act of kindness can ripple through the lives of many creating waves of positivity and compassion,a single act of kindness can ripple through the lives of many creating waves of positivity and compassion,"Percentage Difference Latency: 9.27x
+Absolute Difference Latency: 10.70 seconds
+
+Moonshine Latency: 11.86 seconds
+Faster-Whisper Tiny Latency: 1.16 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\f504f3a2a0a141938e99\latency_and_wer_comparison.png,"Total Runs: 26
+
+Average Percentage Difference Latency: 9.55x
+Average Absolute Difference Latency: 10.35 seconds
+
+Average Moonshine Latency: 11.45 seconds
+Average Faster-Whisper Tiny Latency: 1.09 seconds
+
+Average Moonshine WER: 2.22%
+Average Faster-Whisper Tiny WER: 3.37%",.gradio\flagged\ Cumulative Chart\49f1db9040cd7831aaad\cumulative_latency_and_wer_comparison.png,2024-10-26 18:04:26.137243
+"Art is a reflection of the human experience, full of emotion and depth, capturing moments that words cannot.
+",.gradio\flagged\ Google Text to Speech Audio Output\c95658f60bc8d4614702\tmpkvdaqw2o.wav,art is a reflection of the human experience full of emotion and depth capturing moments that words cannot,art is a reflection of the human experience full of emotion and depth capturing moments that words cannot,"Percentage Difference Latency: 9.69x
+Absolute Difference Latency: 9.43 seconds
+
+Moonshine Latency: 10.40 seconds
+Faster-Whisper Tiny Latency: 0.97 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\b37d6727d8eff0a2b3bc\latency_and_wer_comparison.png,"Total Runs: 27
+
+Average Percentage Difference Latency: 9.56x
+Average Absolute Difference Latency: 10.32 seconds
+
+Average Moonshine Latency: 11.41 seconds
+Average Faster-Whisper Tiny Latency: 1.09 seconds
+
+Average Moonshine WER: 2.14%
+Average Faster-Whisper Tiny WER: 3.25%",.gradio\flagged\ Cumulative Chart\5b5970ba930fa49d8fe1\cumulative_latency_and_wer_comparison.png,2024-10-26 18:04:59.260395
+"The thrill of the unknown fuels our desire for exploration, pushing us to seek out new horizons.
+",.gradio\flagged\ Google Text to Speech Audio Output\e511876d0a3fb81eb08e\tmpox7z55n2.wav,the thrill of the unknown fuels our desire for exploration pushing us to seek out new horizons,the thrill of the unknown fuels our desire for exploration pushing us to seek out new horizons,"Percentage Difference Latency: 8.84x
+Absolute Difference Latency: 10.41 seconds
+
+Moonshine Latency: 11.59 seconds
+Faster-Whisper Tiny Latency: 1.18 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\363f152ad11a0f0d21f3\latency_and_wer_comparison.png,"Total Runs: 28
+
+Average Percentage Difference Latency: 9.53x
+Average Absolute Difference Latency: 10.32 seconds
+
+Average Moonshine Latency: 11.41 seconds
+Average Faster-Whisper Tiny Latency: 1.09 seconds
+
+Average Moonshine WER: 2.06%
+Average Faster-Whisper Tiny WER: 3.13%",.gradio\flagged\ Cumulative Chart\325115450317a9d60dc0\cumulative_latency_and_wer_comparison.png,2024-10-26 18:06:39.782212
+"In silence, we often find the answers we seek within ourselves, allowing clarity to emerge from the chaos.
+",.gradio\flagged\ Google Text to Speech Audio Output\2bf6ca65197e6c055390\tmpq9zz4kil.wav,in silence we often find the answers we seek within ourselves allowing clarity to emerge from the chaos,in silence we often find the answers we seek within ourselves allowing clarity to emerge from the chaos,"Percentage Difference Latency: 8.62x
+Absolute Difference Latency: 10.55 seconds
+
+Moonshine Latency: 11.77 seconds
+Faster-Whisper Tiny Latency: 1.22 seconds
+
+WER Moonshine: 0.00%
+WER Faster-Whisper Tiny: 0.00%",.gradio\flagged\ Chart\7e8a96adffa0f123b7c7\latency_and_wer_comparison.png,"Total Runs: 29
+
+Average Percentage Difference Latency: 9.50x
+Average Absolute Difference Latency: 10.33 seconds
+
+Average Moonshine Latency: 11.43 seconds
+Average Faster-Whisper Tiny Latency: 1.10 seconds
+
+Average Moonshine WER: 1.99%
+Average Faster-Whisper Tiny WER: 3.02%",.gradio\flagged\ Cumulative Chart\863deec6bd5a38db1c71\cumulative_latency_and_wer_comparison.png,2024-10-26 18:07:16.554605
+"Change is inevitable; it’s how we adapt that defines us, shaping our journey through life’s many twists.",.gradio\flagged\ Google Text to Speech Audio Output\603177cb95efdab4388e\tmp3j44sth5.wav,change is inevitable it is how we adapt that defines us shaping our journey through life is many twists,changes inevitable it is how we adapt that defines us shaping our journey through life is many twists,"Percentage Difference Latency: 8.76x
+Absolute Difference Latency: 10.89 seconds
+
+Moonshine Latency: 12.13 seconds
+Faster-Whisper Tiny Latency: 1.24 seconds
+
+WER Moonshine: 23.53%
+WER Faster-Whisper Tiny: 35.29%",.gradio\flagged\ Chart\801ac047d02489be61f2\latency_and_wer_comparison.png,"Total Runs: 30
+
+Average Percentage Difference Latency: 9.47x
+Average Absolute Difference Latency: 10.35 seconds
+
+Average Moonshine Latency: 11.45 seconds
+Average Faster-Whisper Tiny Latency: 1.10 seconds
+
+Average Moonshine WER: 2.71%
+Average Faster-Whisper Tiny WER: 4.10%",.gradio\flagged\ Cumulative Chart\d0ebf8dca13c1b7972cb\cumulative_latency_and_wer_comparison.png,2024-10-26 18:07:58.341596
