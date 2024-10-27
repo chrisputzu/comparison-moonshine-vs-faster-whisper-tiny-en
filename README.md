@@ -148,7 +148,6 @@ The comparison shows that Faster-Whisper Tiny outperforms Moonshine in terms of 
 
 In terms of accuracy, Moonshine has a lower Word Error Rate (WER) of 2.71%, while Faster-Whisper Tiny has a WER of 4.10%. This suggests that although Faster-Whisper Tiny is faster, it sacrifices some transcription accuracy compared to Moonshine.
 
-
 ![Cumulative Latency and WER Comparison 1](results_img1.png)
 ![Cumulative Latency and WER Comparison 2](results_img2.png)
 
